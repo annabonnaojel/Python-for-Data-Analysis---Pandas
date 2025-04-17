@@ -1,13 +1,1 @@
-cd your-repo
 
-# Delete the file
-rm path/to/your/6.Python for Data Analysis - Pandas
-
-# Stage the change
-git add -A
-
-# Commit the deletion
-git commit -m "Deleted 6.Python for Data Analysis - Pandas"
-
-# Push the changes to GitHub
-git push origin main  # or your branch name
